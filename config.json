@@ -1,0 +1,9 @@
+{
+    "DNSs": [{
+        "Service": "Strato",
+        "Hostname": "domain.net",
+        "Domain": "subdomain.domain.net",
+        "Password": "Password"
+    }],
+    "IpCheckInterval": 1
+}
