@@ -5,5 +5,5 @@
         "Domain": "subdomain.domain.net",
         "Password": "Password"
     }],
-    "IpCheckInterval": 1
+    "IpCheckInterval": 1 
 }
